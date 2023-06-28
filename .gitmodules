@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "jmatrix"]
 	path = jmatrix
 	url = https://github.com/cran/jmatrix
-	shallow = true
-	registered = true
 [submodule "parallelpam"]
 	path = parallelpam
 	url = https://github.com/cran/parallelpam
-	shallow = true
-	registered = true
 [submodule "scellpam"]
 	path = scellpam
 	url = https://github.com/cran/scellpam
-	shallow = true
-	registered = true
