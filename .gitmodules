@@ -8,3 +8,6 @@
 [submodule "parallelpam"]
 	path = parallelpam
 	url = https://github.com/cran/parallelpam
+[submodule "scellpam"]
+	path = scellpam
+	url = https://github.com/cran/scellpam
